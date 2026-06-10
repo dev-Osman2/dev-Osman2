@@ -2,8 +2,8 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
 
-<h1>👋 Osman Taher</h1>
-<h3>🚀 Front-end Web Developer | 🎓 Information Systems Student @ FCI Luxor</h3>
+<h1>👋 Ezzat Medhat</h1>
+<h3>🚀 back-end Web Developer | 🎓 Information Systems Student @ FCI Luxor</h3>
 
 <p>
 I am a passionate developer focused on building modern web applications, understanding data flow, and continuously expanding my technical stack.<br>
@@ -22,12 +22,6 @@ I love learning by doing, prioritizing official documentation, and building real
   </a>
   <a href="https://www.notion.so/Life-Dashboard-2ac957c1541e80589e6cee5acb59e845" target="_blank">
     <img src="https://img.shields.io/badge/Notion_Dashboard-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  </a>
-  <a href="https://www.zad-islam.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Zad_App-2EA043?style=for-the-badge&logo=vercel&logoColor=white" alt="Zad App"/>
-  </a>
-  <a href="https://nurse-mohamed.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Brother's_Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Brother's Portfolio"/>
   </a>
 </div>
 
